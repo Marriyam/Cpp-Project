@@ -1,0 +1,22 @@
+D:\opps lab\project\allaboutdatagridview\allaboutdatagridview\bin\Debug\allaboutdatagridview.exe.config
+D:\opps lab\project\allaboutdatagridview\allaboutdatagridview\bin\Debug\allaboutdatagridview.exe
+D:\opps lab\project\allaboutdatagridview\allaboutdatagridview\bin\Debug\allaboutdatagridview.pdb
+D:\opps lab\project\allaboutdatagridview\allaboutdatagridview\obj\Debug\allaboutdatagridview.csprojAssemblyReference.cache
+D:\opps lab\project\allaboutdatagridview\allaboutdatagridview\obj\Debug\allaboutdatagridview.Form1.resources
+D:\opps lab\project\allaboutdatagridview\allaboutdatagridview\obj\Debug\allaboutdatagridview.Form2.resources
+D:\opps lab\project\allaboutdatagridview\allaboutdatagridview\obj\Debug\allaboutdatagridview.Properties.Resources.resources
+D:\opps lab\project\allaboutdatagridview\allaboutdatagridview\obj\Debug\allaboutdatagridview.csproj.GenerateResource.cache
+D:\opps lab\project\allaboutdatagridview\allaboutdatagridview\obj\Debug\allaboutdatagridview.csproj.CoreCompileInputs.cache
+D:\opps lab\project\allaboutdatagridview\allaboutdatagridview\obj\Debug\allaboutdatagridview.exe
+D:\opps lab\project\allaboutdatagridview\allaboutdatagridview\obj\Debug\allaboutdatagridview.pdb
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\allaboutdatagridview\allaboutdatagridview\bin\Debug\allaboutdatagridview.exe.config
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\allaboutdatagridview\allaboutdatagridview\bin\Debug\allaboutdatagridview.exe
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\allaboutdatagridview\allaboutdatagridview\bin\Debug\allaboutdatagridview.pdb
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\allaboutdatagridview\allaboutdatagridview\obj\Debug\allaboutdatagridview.csprojAssemblyReference.cache
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\allaboutdatagridview\allaboutdatagridview\obj\Debug\allaboutdatagridview.Form1.resources
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\allaboutdatagridview\allaboutdatagridview\obj\Debug\allaboutdatagridview.Form2.resources
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\allaboutdatagridview\allaboutdatagridview\obj\Debug\allaboutdatagridview.Properties.Resources.resources
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\allaboutdatagridview\allaboutdatagridview\obj\Debug\allaboutdatagridview.csproj.GenerateResource.cache
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\allaboutdatagridview\allaboutdatagridview\obj\Debug\allaboutdatagridview.csproj.CoreCompileInputs.cache
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\allaboutdatagridview\allaboutdatagridview\obj\Debug\allaboutdatagridview.exe
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\allaboutdatagridview\allaboutdatagridview\obj\Debug\allaboutdatagridview.pdb

@@ -1,0 +1,12 @@
+C:\Users\MarYam NaDeem\source\repos\Project13\Debug\Project13.vcxprojAssemblyReference.cache
+C:\Users\MarYam NaDeem\source\repos\Project13\Debug\Project13.MyForm.resources
+C:\Users\MarYam NaDeem\source\repos\Project13\Debug\Project13.vcxproj.GenerateResource.cache
+C:\Users\MarYam NaDeem\source\repos\Project13\Debug\Project13.exe
+C:\Users\MarYam NaDeem\source\repos\Project13\Debug\Project13.pdb
+C:\Users\MarYam NaDeem\source\repos\Project13\Debug\Project13.MyForm1.resources
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\GUI for login\Debug\Project13.vcxprojAssemblyReference.cache
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\GUI for login\Debug\Project13.MyForm.resources
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\GUI for login\Debug\Project13.MyForm1.resources
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\GUI for login\Debug\Project13.vcxproj.GenerateResource.cache
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\GUI for login\Debug\Project13.exe
+F:\Backup on 29-Dec-2019\Desktop\rabia works\BS CS DEGREE Program\second semester\opps lab\project\GUI\GUI for login\Debug\Project13.pdb

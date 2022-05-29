@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+D:\opps lab\project\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(1223): warning C4101: 'sth2': unreferenced local variable
+D:\opps lab\project\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(1324): warning C4101: 'X': unreferenced local variable
+  ConsoleApplication2.vcxproj -> D:\opps lab\project\ConsoleApplication2\Debug\ConsoleApplication2.exe
